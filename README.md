@@ -240,8 +240,6 @@ But:
 
 ## 💡 Impact
 
-*(Replace this paragraph with your own 3-4 sentences based on your actual JLS FMS experience before adding this to a CV/portfolio.)*
-
 In my role as a Data Assistant, I manually reviewed hospital-related financial datasets in Excel ahead of audits — checking for missing values, duplicate entries, inconsistent formatting, and unusual transaction amounts that could indicate errors or required further verification. This project translates that manual review process into a reusable, automated pipeline: issues that took hours to spot by scrolling through spreadsheets are now surfaced in seconds, with a clear, documented line between what's safe to fix automatically and what genuinely needs a person to look at it — the same judgment call I was making by hand.
 
 <div align="center">
