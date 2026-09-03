@@ -245,7 +245,7 @@ In my role as a Data Assistant, I manually reviewed hospital-related financial d
 
 ## 🔍 **Upload. Detect. Clean. Trust.**
 
-*Because bad data doesn't announce itself — the pipeline just makes sure it can't hide.*
+*Because bad data doesn't announce itself the pipeline just makes sure it can't hide.*
 
 🔍 🧹 📊
 
